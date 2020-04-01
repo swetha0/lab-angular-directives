@@ -88,7 +88,7 @@ To generate the starter code, follow the steps given below
 - Use app.component.html and app.component.ts to write your logic.
 
 ## Expected Output:
-![output-5]()
+![output-5](https://i1.faceprep.in/ProGrad/ts-day4-5.png)
 
 ## Progression 4: Structural Directive - ngSwitch
 - Generate a new app using `ng new directive-ngswitch-app`
@@ -99,11 +99,9 @@ To generate the starter code, follow the steps given below
 - Use app.component.html and app.component.ts to write your logic.
 
 ## Expected Output:
-![output-6]()
+![output-6](https://i1.faceprep.in/ProGrad/ts-day4-6.png)
 
-
-
-## Progression 3: Style
+## Progression 5: Style
 Did you notice that the styles are missing in the above expected output. Styling is a creative aspect and we want you to try and style it all by yourself. However, the objective of this progression is to add styles the page and make it look appealing.
 
 Happy Coding ProGrad ❤️!
