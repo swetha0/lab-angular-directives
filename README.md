@@ -77,7 +77,7 @@ To generate the starter code, follow the steps given below
 
 ## Expected Output:
 ![output-3](https://i1.faceprep.in/ProGrad/ts-day4-1.png)
-![output-4](https://i1.faceprep.in/ProGrad/ts-day4-1.png)
+![output-4](https://i1.faceprep.in/ProGrad/ts-day4-2.png)
 
 ## Progression 2: Style
 Did you notice that the styles are missing in the above expected output. Styling is a creative aspect and we want you to try and style it all by yourself. However, the objective of this progression is to add styles the page and make it look appealing.
