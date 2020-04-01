@@ -53,7 +53,7 @@ To generate the starter code, follow the steps given below
     - ```ng serve --open or ng serve -o```
 
 
-## Progression 1: Attribute Directive
+## Progression 1: Attribute Directive - ngClass & ngStyle
 
 - Generate a new app using `ng new directive-attribute-app`
 - Use the following angular built in attribute directives generate the output given below.
@@ -68,8 +68,8 @@ To generate the starter code, follow the steps given below
 ![output-2](https://i1.faceprep.in/ProGrad/ts-day4-4.png)
 
 ## Progression 2: Structural Directive - ngIf
-- Generate a new app using `ng new directive-ngif-app`
-- Use the following angular built in attribute directives generate the output given below.
+- Generate a new app using `ng new directive-ngfor-app`
+- Use the following angular built in strucut directives generate the output given below.
 ```
 - ngIf
 ```
@@ -79,7 +79,31 @@ To generate the starter code, follow the steps given below
 ![output-3](https://i1.faceprep.in/ProGrad/ts-day4-1.png)
 ![output-4](https://i1.faceprep.in/ProGrad/ts-day4-2.png)
 
-## Progression 2: Style
+## Progression 3: Structural Directive - ngFor
+- Generate a new app using `ng new directive-ngswitch-app`
+- Use the following angular built in attribute directives generate the output given below.
+```
+- ngFor
+```
+- Use app.component.html and app.component.ts to write your logic.
+
+## Expected Output:
+![output-5]()
+
+## Progression 4: Structural Directive - ngSwitch
+- Generate a new app using `ng new directive-ngswitch-app`
+- Use the following angular built in attribute directives generate the output given below.
+```
+- ngFor
+```
+- Use app.component.html and app.component.ts to write your logic.
+
+## Expected Output:
+![output-6]()
+
+
+
+## Progression 3: Style
 Did you notice that the styles are missing in the above expected output. Styling is a creative aspect and we want you to try and style it all by yourself. However, the objective of this progression is to add styles the page and make it look appealing.
 
 Happy Coding ProGrad ❤️!
