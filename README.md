@@ -2,7 +2,6 @@
 
 # ProGrad Lab | Angular Directives 
 
-
 ## Learning Goals
 
 After this lab, you will be able to:
@@ -56,7 +55,7 @@ To generate the starter code, follow the steps given below
 ## Progression 1: Attribute Directive - ngClass & ngStyle
 
 - Generate a new app using `ng new directive-attribute-app`
-- Use the following angular built in attribute directives generate the output given below.
+- Use the following angular built in attribute directives and generate the output given below.
 ```
 - ngClass
 - ngStyle
